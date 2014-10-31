@@ -1,3 +1,5 @@
+# Doesn't work
+
 PEOPLE = [ #square bracket for arrays
   { #curly bracket for hashes
     first_name: "john",
