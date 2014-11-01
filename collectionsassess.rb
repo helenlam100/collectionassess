@@ -47,3 +47,6 @@ PEOPLE = [ #square bracket for arrays
     email: "k.thomas@hotmail.com",
     class: "Ruby Immersive",
   }
+]
+
+p STUDENTS
